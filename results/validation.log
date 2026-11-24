@@ -1,0 +1,7 @@
+BCH: 100/100 eighteen-error recoveries
+DOCX algebra, metadata roundtrip, clean authentication, wrong-key and record rejection: PASS
+liu_tan_2002 clean 0.9996302922046025 ASR None
+ganic_eskicioglu_2005 clean 0.9976660861841075 ASR None
+luo_2021 clean 0.9923321756086602 ASR 0
+Matched direct/Givens ablation: PASS
+All 46 conditions return valid RGB arrays
